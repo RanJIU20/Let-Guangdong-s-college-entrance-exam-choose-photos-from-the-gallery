@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: background.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3M4Wwap5qByY0ggKJ4ifQW+A3us=
+SHA256-Digest: mjCpz7SYdxubW8GeUS7m/spdAePN+xINK6NrGqUNG4A=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: S8OhXgPmZo0RN58s7KYoQEhJQYQ=
+SHA256-Digest: mf/cnmmkUrIW3jikFOlgzauxNHl2exSxvjcuYWgD44I=
+
+Name: msg.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /Arn1htmE1QKtc0wD0doz6yRKDw=
+SHA256-Digest: udv9Manxceudh60O8dargie8b0y5WA+tbrQDygkaV68=
+
+Name: images/icon128.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RDxvOwzQrAOpOrQXDjntbiabSXU=
+SHA256-Digest: FElfot+uBkAt/ukzHaHXV9dAU5Ieh0Qm2d9nOy5ICa4=
+
+Name: js/background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: C2m9V7nTwXOeutBA2XEDjfNs2ys=
+SHA256-Digest: KugoFUzVXBJ0zfK0IFml8MANwUUrhDeKiucG0nEGr2E=
+
+Name: js/bookmarks.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 87Sz44mcFd+lUnGOl3VrB+f7vlM=
+SHA256-Digest: eE57EnncYpt0ZSgcAOOaUUGQ6x7wxcBSkvveevsjac0=
+
+Name: js/inite.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vTio+SyoQhOMOTN32VwjBK3XzfU=
+SHA256-Digest: kyt0fYMHHDqN+bDS/3sXjwxGXXRsiXgUYOtgyLZf4oQ=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ljh+h4r2G5JVgBCQOOgt2K829LU=
+SHA256-Digest: Fw9Bj49MoFs2fHaBNKTKZ3Hw9Teacpsy3Y0Q1SNct38=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +12gOfp8g9yfGEmsQOEtIxQIFfo=
+SHA256-Digest: jjkOtrx5sj3LuL/6S6lXjMaKPFQi+lm4Zqp8mTetDOg=
+

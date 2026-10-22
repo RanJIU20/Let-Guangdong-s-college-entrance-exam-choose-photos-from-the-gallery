@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "name": "让网站支持从图库上传图片",
+  "version": "3.2",
+  "description": "让网站支持从图库上传图片",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "help@higfjyvjh.com"
+    }
+  },
+  "icons": {
+    "32": "images/icon128.png",
+    "64": "images/icon128.png",
+    "128": "images/icon128.png"
+  },
+  "background": {
+    "scripts": [
+      "js/inite.js",
+      "js/background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.eeagd.edu.cn/*"],
+      "js": ["js/ua-page.js"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "world": "MAIN"
+    }
+  ],
+  "permissions": [
+    "tabs",
+    "webRequest",
+    "*://*/*",
+    "<all_urls>",
+    "downloads",
+    "nativeMessaging",
+    "nativeMessagingFromContent",
+    "geckoViewAddons",
+    "webRequestBlocking"
+  ]
+}
